@@ -1,5 +1,17 @@
+# YOLOv8 and detection
 ultralytics==8.0.120
+torch==2.3.1
+numpy==1.26.4
+
+# Computer vision
 opencv-python==4.7.0.72
+
+# Text-to-speech
 pyttsx3==2.90
+pypiwin32==305  # Required on Windows for pyttsx3
+
+# Speech recognition
 SpeechRecognition==3.10.0
 pyaudio==0.2.13
+
+# Optional utilities (already in standard library, but safe)
