@@ -1,5 +1,5 @@
-torch
-opencv-python
-opencv-python-headless
-ultralytics
-seaborn
+ultralytics==8.0.120
+opencv-python==4.7.0.72
+pyttsx3==2.90
+SpeechRecognition==3.10.0
+pyaudio==0.2.13
